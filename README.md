@@ -1,4 +1,4 @@
-Hi 👋, I'm Kundan Tripathi.
+                                                                                    Hi 👋, I'm Kundan Tripathi.
 Web-Developer
 🤚 About me - This is Kundan Tripathi and I'm a Web-Developer. Currently I am working on my Ui/Ux design. And focusing on the Front-end Development. 🙋‍♂️.
 
