@@ -8,7 +8,7 @@
 
 💬 Ask me about - ** Responsive Web Design, UI Design and Web Apps, Programming and Problem solvings **
 
-📫 How to reach me - **kundantripathi1512@gmail.com **
+📫 How to reach me - ** kundantripathi1512@gmail.com **
 
 
 <!---
