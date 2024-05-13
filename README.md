@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! Kundan Tripathi, bringing the vibes!"</h1>
+<h1 align="center">Hey 👋,Kundan Tripathi in the house! Let's rock!"</h1>
 <h3 align="center">I'm a Web developer, working as a Freelancer. And currently I am working on my logic building and problem solving skill.</h3>
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
