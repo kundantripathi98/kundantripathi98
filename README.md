@@ -12,8 +12,8 @@ I specialize in bridging the gap between design and code, focusing on performanc
 ### 📺 Featured on <a href="https://youtube.com/@kodeTitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kodeTitan" height="30" width="40" /></a> [KodeTitan](https://youtube.com/@kodeTitan)
 *Latest Awwwards Rebuilds & Tutorials:*
 * **[Insanely Smooth Menu Rebuild](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Mastering **GSAP Clip-path** masking and staggered internal element transitions for high-end navigation.
-* **[Premium GSAP Page Transitions](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Implementing seamless, state-driven animations to transform standard layouts into immersive experiences.
-* **[Interactive Grid Menu Reveal](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Deep-diving into complex **GSAP timelines** and motion logic for high-fidelity UI.
+* **[Premium GSAP Page Transitions](https://youtu.be/p9vq8w4PA5E?si=QA_BbY-QoGkUg9QG)** – Implementing seamless, state-driven animations to transform standard layouts into immersive experiences.
+* **[Interactive Grid Menu Reveal](https://www.youtube.com/watch?v=sWxowfya5i8)** – Deep-diving into complex **GSAP timelines** and motion logic for high-fidelity UI.
 
 ---
 
