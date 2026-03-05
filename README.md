@@ -11,17 +11,22 @@ I specialize in bridging the gap between design and code, focusing on performanc
 
 ### 📺 Featured on <a href="https://youtube.com/@kodeTitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kodeTitan" height="30" width="40" /></a> [KodeTitan](https://youtube.com/@kodeTitan)
 *Latest Awwwards Rebuilds & Tutorials:*
-- **[Project Name]** – Advanced GSAP ScrollTrigger implementation.
-- **[Project Name]** – Complex WebGL transitions and shaders.
-- **[Project Name]** – Responsive high-end typography layouts.
+* **[Insanely Smooth Menu Rebuild](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Mastering **GSAP Clip-path** masking and staggered internal element transitions for high-end navigation.
+* **[Premium GSAP Page Transitions](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Implementing seamless, state-driven animations to transform standard layouts into immersive experiences.
+* **[Interactive Grid Menu Reveal](https://www.youtube.com/watch?v=OiA33b3BvJY)** – Deep-diving into complex **GSAP timelines** and motion logic for high-fidelity UI.
 
 ---
 
-- 🌱 I’m currently learning **Vanilla JavaScript and Problem solving with Data Structure and Algorithm**
+### 🚀 Technical Expertise
+* **Animation Engineering:** Architecting production-grade timelines using **GSAP ScrollTrigger**, **Flip**, and **Observer**.
+* **Creative UI Development:** Building responsive, high-impact layouts with **HTML5/SCSS/JavaScript** focusing on performance.
+* **Performance Optimization:** Crafting refined typography and motion physics using **mix-blend-mode** and advanced CSS techniques.
 
-- 💬 Ask me about **Responsive Web Design, UI Design and Web Apps, Programming and Problem solvings**
+---
 
-- 📫 How to reach me **kundantripathi1512@gmail.com**
+### 📬 Direct Line
+* **Inquiries:** [hey.kodetitan@gmail.com](mailto:hey.kodetitan@gmail.com) / [kundantripathi1512@gmail.com](mailto:kundantripathi1512@gmail.com)
+* **YouTube:** [@KodeTitan](https://youtube.com/@kodeTitan)
 
 
 <h3 align="left">Languages and Tools:</h3>
