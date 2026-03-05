@@ -1,4 +1,4 @@
-<h1 align="center">Kundan Tripathi|⚡ KodeTitan | Creative Developer</h1>
+<h1 align="center">Kundan Tripathi |⚡ KodeTitan | Creative Developer</h1>
 
 ### Crafting high-fidelity digital experiences & Awwwards-level interactions.
 
