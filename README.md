@@ -1,8 +1,21 @@
-<h1 align="center">"Yo 👋,Kundan Tripathi in the house! Let's rock!"</h1>
-<h3 align="center">I'm a Web developer, working as a Freelancer. And currently I am working on my logic building and problem solving skill.</h3>
+<h1 align="center">⚡ KodeTitan | Creative Developer</h1>
+
+### Crafting high-fidelity digital experiences & Awwwards-level interactions.
+
+I specialize in bridging the gap between design and code, focusing on performance-driven animations and immersive UI. When I'm not freelancing, I'm breaking down complex layouts on my YouTube channel.
+
+---
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absingh-495&label=Profile%20views&color=0e75b6&style=flat" alt="absingh-495" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absingh-495&label=Profile%20views&color=0e75b6&style=flat" alt="kundantripathi98" /> </p>
+
+### 📺 Featured on <a href="https://youtube.com/@kodeTitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kodeTitan" height="30" width="40" /></a> [KodeTitan](https://youtube.com/@kodeTitan)
+*Latest Awwwards Rebuilds & Tutorials:*
+- **[Project Name]** – Advanced GSAP ScrollTrigger implementation.
+- **[Project Name]** – Complex WebGL transitions and shaders.
+- **[Project Name]** – Responsive high-end typography layouts.
+
+---
 
 - 🌱 I’m currently learning **Vanilla JavaScript and Problem solving with Data Structure and Algorithm**
 
